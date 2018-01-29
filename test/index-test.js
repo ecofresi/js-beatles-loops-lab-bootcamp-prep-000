@@ -61,5 +61,5 @@ function johnLennonFacts() {
      }
      return newFacts;
  } ; 
-// johnLennonFacts();
+johnLennonFacts();
  
