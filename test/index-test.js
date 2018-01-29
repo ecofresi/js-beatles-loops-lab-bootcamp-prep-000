@@ -60,6 +60,6 @@ function johnLennonFacts() {
          i++;
      }
      return newFacts;
- } ; 
-johnLennonFacts();
+ } 
+//johnLennonFacts();
  
